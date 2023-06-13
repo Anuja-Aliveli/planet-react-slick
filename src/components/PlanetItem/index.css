@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.slide {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.planet-image {
+  width: 300px;
+  height: 200px;
+}
+.planet-name {
+  color: #f8fafc;
+  font-size: 30px;
+  font-weight: normal;
+}
+.planet-description {
+  color: #f1f5f9;
+  font-size: 20px;
+  font-weight: normal;
+  text-align: center;
+}
